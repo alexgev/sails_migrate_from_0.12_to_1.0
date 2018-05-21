@@ -1,4 +1,4 @@
-# sails-migrate
+# sails migrate from v0.12 to 1.0
 
 a [Sails v1](https://sailsjs.com) application
 
